@@ -5,7 +5,7 @@
 # https://github.com/yuin/goldmark
 %global goipath		github.com/yuin/goldmark
 %global forgeurl	https://github.com/yuin/goldmark
-Version:		1.7.0
+Version:		1.7.4
 
 %gometa
 
